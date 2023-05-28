@@ -1,4 +1,5 @@
 # India Prime Ministers
+[![MasterHead](https://i2.wp.com/dtlegal.in/wp-content/uploads/2018/08/list-of-all-prime-ministers-of-india.jpg?fit=669%2C387&ssl=1)](https://tusharprog.io)
 India has had 15 prime ministers since it gained independence from the United Kingdom in 1947. The first prime minister was Jawaharlal Nehru, who served from 1947 to 1964. The current prime minister is Narendra Modi, who has been in office since 2014.
 
 The prime minister of India is the head of government and is responsible for the day-to-day running of the country. The prime minister is appointed by the president of India, who is the head of state.
